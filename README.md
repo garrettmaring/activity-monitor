@@ -1,4 +1,4 @@
-# Activity_Monitor
+# Desktop Activity Monitor
  
 Displays detailed CPU and memory usage of running processes. Can kill and start processes.
 
